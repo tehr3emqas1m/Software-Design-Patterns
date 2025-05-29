@@ -52,14 +52,26 @@ Behavioral patterns are all about **object interaction and responsibility delega
 All codes are in the Python_codes folder with the initial Alphabet i.e., C, S and B indicating the category that the pattern belongs to.
 .
 ├── creational/
+
 │   ├── singleton.py
+
 │   ├── factory_method.py
+
 │   └── ...
+
 ├── structural/
+
 │   ├── adapter.py
+
 │   ├── facade.py
+
 │   └── ...
+
 ├── behavioral/
+
 │   ├── state.py
+
 │   ├── observer.py
+
 │   └── ...
+
