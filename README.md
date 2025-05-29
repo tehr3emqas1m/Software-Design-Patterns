@@ -41,37 +41,8 @@ Behavioral patterns are all about **object interaction and responsibility delega
 ###  Key Patterns
 - **Strategy** – Enables selecting an algorithm’s behavior at runtime.
 - **Observer** – Allows objects to be notified of state changes in other objects.
-- **Command** – Encapsulates a request as an object.
 - **State** – Allows an object to alter its behavior when its internal state changes.
-- **Mediator** – Reduces coupling between components by introducing a mediator object.
 - **Iterator** – Provides a way to access elements of a collection without exposing its structure.
 
 ---
-
-##  Repository Structure
-All codes are in the Python_codes folder with the initial Alphabet i.e., C, S and B indicating the category that the pattern belongs to.
-.
-├── creational/
-
-│   ├── singleton.py
-
-│   ├── factory_method.py
-
-│   └── ...
-
-├── structural/
-
-│   ├── adapter.py
-
-│   ├── facade.py
-
-│   └── ...
-
-├── behavioral/
-
-│   ├── state.py
-
-│   ├── observer.py
-
-│   └── ...
 
